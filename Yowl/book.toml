@@ -1,0 +1,6 @@
+[book]
+authors = ["Ted Kouhouenou"]
+language = "en"
+multilingual = false
+src = "src"
+title = "A thoughtful introduction to the Free Panda's"
