@@ -7,7 +7,8 @@
   - Google
   - Linkedin
   - Email
-- Two Factor Authentication
+  - Github
+  - Epitech API
 ##  Post & Comment
 > Create a post 
 - The Link of article, post or page source who can generate a preview of link. A image can be uploads .
@@ -16,7 +17,9 @@
 > Comment a post
 - A post can be comment, a multiple time.
 - It's can be possible to answered to others comment of others users, you included .
-- The comment place have doing contains text and not avoid to filter a command and code injections.  
+- The comment place have doing contains text and not avoid to filter a command and code injections.
+> Delete a post
+- A user can delete the post that it create himself.
 > Like a post
 - One post can be liked .
 > The Tags
