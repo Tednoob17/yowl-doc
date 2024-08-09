@@ -3,10 +3,7 @@
 
 > Authentication 
 - Authentication can be reached by mutiples ways : 
-  - Facebook
-  - Google
-  - Linkedin
-  - Email
+    [Email](https://sendgrid.com/en-us/solutions/email-api)
 ##  Post & Comment
 > Create a post 
 - The Link of article, post or page source who can generate a preview of link. A image can be uploads .
@@ -30,4 +27,8 @@
 - A Admin have a dashboard where it can manage
 
 # Next Feature
-- Authentication  with [Epitech Intra API](https://cyberryteam.github.io/epitech-intranet-api/)  and  [Github API](https://docs.github.com/en/rest) 
+- Authentication  with [Epitech Intra API](https://cyberryteam.github.io/epitech-intranet-api/) 
+-  Authentication  with [Github API](https://docs.github.com/en/rest)
+- [Authentication  with Facebook](https://developers.facebook.com/docs/graph-api/)
+- [Authentication  with  Google](https://console.cloud.google.com/apis/library?hl=fr)
+- [Authentication  with  Linkedin](https://developer.linkedin.com/product-catalog)

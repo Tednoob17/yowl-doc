@@ -5,6 +5,6 @@
 # User Guide
 - [Presentation](guide/Presentation.md)
 - [Fonctionnality](guide/Fonctionnality.md)
-- [API Foncti]
+- [API Fonctionnality](guide/api.md)
 - [Installation](guide/installation.md)
 - [Usage](guide/usage.md)
